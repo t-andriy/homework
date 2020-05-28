@@ -49,6 +49,15 @@ let myArr = [cities.join('*')];
 console.log(myArr);
 
 
+// task 5**************
+
+let isAdult = prompt('Are You already 18 years old?', 18);
+if (isAdult >= 18) {
+    alert('You have reached the age of majority');
+}
+else {
+    alert('You are still too young');
+}
 
 // task 6************
 
