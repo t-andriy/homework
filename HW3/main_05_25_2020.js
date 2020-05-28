@@ -12,4 +12,4 @@ for(let i = 0; i < arr.length; i++) {
     
 }
 
-console.log("sum" + multipli);
+console.log(multipli);
